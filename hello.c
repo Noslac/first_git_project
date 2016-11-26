@@ -1,4 +1,4 @@
-#include <include>//My first project git project
+#include <include>//My first git
 int main()
 {
 	printf("Hello World!!!\n");
