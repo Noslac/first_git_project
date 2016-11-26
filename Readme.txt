@@ -1,0 +1,1 @@
+Using a basic program that prints on the console to learn how to use git
